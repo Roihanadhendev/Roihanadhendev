@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="waves" style="width:50px; height:50px" />
+# Hi there <img src="https://raw.githubusercontent.com/AdhenxYz/AdhenxYz/main/wave.gif" alt="waves" style="width:50px; height:50px" />
 
 ## 🚀 About Me
 
