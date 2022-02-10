@@ -28,12 +28,12 @@
 * Figma, Canva 
 
 ## 📫 How to reach me
-- Website [roihanadhen](https://roihanadhen.xyz)
-- Linkedin [roihanadhen](https://www.linkedin.com/in/roihanadhen/)
-- instagram [roihanadhen](https://www.instagram.com/roihanadhen/)
-- Twitter [roihanadhen](https://twitter.com/MRoihanJ_Adhen)
-- Gmail [contact](mailto:mroihanadhen@gmail.com)
-- Resume [Resume](https://drive.google.com/drive/folders/1xUtRko0hoT7J3fXV8TZX73mU_0mdJkEi?usp=sharing)
+- Website: [roihanadhen](https://roihanadhen.xyz)
+- Linkedin: [roihanadhen](https://www.linkedin.com/in/roihanadhen/)
+- instagram: [roihanadhen](https://www.instagram.com/roihanadhen/)
+- Twitter: [roihanadhen](https://twitter.com/MRoihanJ_Adhen)
+- Gmail: [contact](mailto:mroihanadhen@gmail.com)
+- Resume: [Resume](https://drive.google.com/drive/folders/1xUtRko0hoT7J3fXV8TZX73mU_0mdJkEi?usp=sharing)
 
 ###
 ©️ 2022 - adhen
