@@ -1,4 +1,4 @@
-# Hi there ![](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif = 100px)
+# Hi there ![](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif = 100x100)
 
 ## 🚀 About Me
 
