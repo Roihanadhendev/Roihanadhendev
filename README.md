@@ -37,7 +37,7 @@
 ![Twitter](https://img.shields.io/badge/Twitter-informational?link=https://twitter.com/MRoihanJ_Adhen&style=for-the-badge&logo=twitter)
 ![Gmail](https://img.shields.io/badge/Gmail-orange?link=mailto:mroihanadhen@gmail.com&style=for-the-badge&logo=gmail)
 - Website: [roihanadhen](https://roihanadhen.xyz)
--[Resume](https://drive.google.com/drive/folders/1xUtRko0hoT7J3fXV8TZX73mU_0mdJkEi?usp=sharing)
+- [Resume](https://drive.google.com/drive/folders/1xUtRko0hoT7J3fXV8TZX73mU_0mdJkEi?usp=sharing)
 
 ###
 ©️ 2022 - adhen
