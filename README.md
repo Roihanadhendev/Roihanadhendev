@@ -31,6 +31,7 @@
 * Figma, Canva 
 
 ## 📫 How to reach me
+![Linkedin](https://img.shields.io/badge/LinkedIn-informationa?link=https://www.linkedin.com/in/roihanadhen/&style=for-the-badge&logo=linkedin)
 - Website: [roihanadhen](https://roihanadhen.xyz)
 - Linkedin: [roihanadhen](https://www.linkedin.com/in/roihanadhen/)
 - instagram: [roihanadhen](https://www.instagram.com/roihanadhen/)
