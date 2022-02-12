@@ -7,7 +7,7 @@
 📍 outside from world tech too. my hobbies is Workout, read more book and healthy life Productivity
 
 ## 💻 Stack Experience
-- Javascript
+![Javascript](https://img.shield.io/badge/javascript-000000?style=for-the-badge&logo=Javascript&logoColor=yellow)
 - React web
 - Next.js, Gatsby.js
 - Vercel, Netlify, firebase, mongodb, 
