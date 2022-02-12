@@ -8,6 +8,7 @@
 
 ## 💻 Stack Experience
 ![Javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React Web](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 - React web
 - Next.js, Gatsby.js
 - Vercel, Netlify, firebase, mongodb, 
