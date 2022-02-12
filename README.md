@@ -32,11 +32,11 @@
 
 ## 📫 How to reach me
 ![Linkedin](https://img.shields.io/badge/LinkedIn-informational?link=https://www.linkedin.com/in/roihanadhen/&style=for-the-badge&logo=linkedin)
+![instagram](https://img.shields.io/badge/Instagram-purple?link=https://www.instagram.com/roihanadhen/&style=for-the-badge&logo=instagram)
+![Github](https://img.shields.io/badge/Github-black?link=https://www.github.com/AdhenxYz/&style=for-the-badge&logo=github)
+![Twitter](https://img.shields.io/badge/Twitter-informational?link=https://twitter.com/MRoihanJ_Adhen&style=for-the-badge&logo=twitter)
+![Gmail](https://img.shields.io/badge/Gmail-important?link=mailto:mroihanadhen@gmail.com&style=for-the-badge&logo=gmail)
 - Website: [roihanadhen](https://roihanadhen.xyz)
-- Linkedin: [roihanadhen](https://www.linkedin.com/in/roihanadhen/)
-- instagram: [roihanadhen](https://www.instagram.com/roihanadhen/)
-- Twitter: [roihanadhen](https://twitter.com/MRoihanJ_Adhen)
-- Gmail: [contact](mailto:mroihanadhen@gmail.com)
 - Resume: [Resume](https://drive.google.com/drive/folders/1xUtRko0hoT7J3fXV8TZX73mU_0mdJkEi?usp=sharing)
 
 ###
