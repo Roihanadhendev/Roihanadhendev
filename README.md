@@ -9,9 +9,11 @@
 ## 💻 Stack Experience
 ![Javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React Web](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-- React web
-- Next.js, Gatsby.js
-- Vercel, Netlify, firebase, mongodb, 
+![Next](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next)
+![Netlify](https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=netlify)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-success?style=for-the-badge&logo=mongodb)
+
 
 ### 📌 Currently Learning
 - Typescript
