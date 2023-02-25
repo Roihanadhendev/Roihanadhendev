@@ -23,7 +23,7 @@
 - web App (Flutter and React Native)
 
 ## 🛠️Work Setup 
-* Windows 10
+* Windows latest version
 * VS Code
 * Brave Browser
 * Github 
